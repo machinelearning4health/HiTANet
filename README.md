@@ -1,5 +1,5 @@
-# HiTANet
-This is the code of HiTANet paper https://www.kdd.org/kdd2020/accepted-papers/view/hitanet-hierarchical-time-aware-attention-networks-for-risk-prediction-on-e
+# HiTANet: Hierarchical Time-Aware Attention Networks for Risk Prediction on Electronic Health Records
+This is the code of HiTANet paper HiTANet: Hierarchical Time-Aware Attention Networks for Risk Prediction on Electronic Health Records https://www.kdd.org/kdd2020/accepted-papers/view/hitanet-hierarchical-time-aware-attention-networks-for-risk-prediction-on-e
 
 # Requirements
 pytorch == 1.3.1
